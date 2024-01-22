@@ -25,6 +25,8 @@ Como não estou concorrendo a vaga realizei o desafio em Java (Spring).
 - Spring
 
 <h2 id="routes">📍 API Endpoints</h2>
+
+
 ​
 | route               | description                                          
 |----------------------|-----------------------------------------------------
