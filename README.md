@@ -25,8 +25,6 @@ Como não estou concorrendo a vaga realizei o desafio em Java (Spring).
 - Spring
 
 <h2 id="routes">📍 API Endpoints</h2>
-
-Here you can list the main routes of your API, and what are their expected request bodies.
 ​
 | route               | description                                          
 |----------------------|-----------------------------------------------------
